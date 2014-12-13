@@ -1088,3 +1088,6 @@ Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/vakeel
 	at org.eclipse.jgit.transport.Transport.push(Transport.java:1167)
 	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:156)
 	... 4 more
+
+!ENTRY org.eclipse.jdt.ui 4 0 2014-12-13 13:40:10.838
+!MESSAGE Could not create Java text hover
