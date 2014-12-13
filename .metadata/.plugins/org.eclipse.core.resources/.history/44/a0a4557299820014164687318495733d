@@ -1,0 +1,7 @@
+package com.self.fun;
+
+public class GsonDemo {
+	public static void main(String[] args) {
+
+	}
+}

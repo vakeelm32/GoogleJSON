@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Lenox\java\jdk1.6.0_25" version="1.6.0_25">
+<bootpath>
+<entry path="C:\Lenox\java\jdk1.6.0_25\jre\lib\resources.jar"/>
+<entry path="C:\Lenox\java\jdk1.6.0_25\jre\lib\rt.jar"/>
+<entry path="C:\Lenox\java\jdk1.6.0_25\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Lenox\java\jdk1.6.0_25\jre\lib\jsse.jar"/>
+<entry path="C:\Lenox\java\jdk1.6.0_25\jre\lib\jce.jar"/>
+<entry path="C:\Lenox\java\jdk1.6.0_25\jre\lib\charsets.jar"/>
+<entry path="C:\Lenox\java\jdk1.6.0_25\jre\lib\modules\jdk.boot.jar"/>
+<entry path="C:\Lenox\java\jdk1.6.0_25\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Lenox\java\jdk1.6.0_25\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Lenox\java\jdk1.6.0_25\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="E:\MY_Space\NewStudy\java" version="1.8.0_25">
+<bootpath>
+<entry path="E:\MY_Space\NewStudy\java\lib\resources.jar"/>
+<entry path="E:\MY_Space\NewStudy\java\lib\rt.jar"/>
+<entry path="E:\MY_Space\NewStudy\java\lib\sunrsasign.jar"/>
+<entry path="E:\MY_Space\NewStudy\java\lib\jsse.jar"/>
+<entry path="E:\MY_Space\NewStudy\java\lib\jce.jar"/>
+<entry path="E:\MY_Space\NewStudy\java\lib\charsets.jar"/>
+<entry path="E:\MY_Space\NewStudy\java\lib\jfr.jar"/>
+<entry path="E:\MY_Space\NewStudy\java\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\MY_Space\NewStudy\java\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\MY_Space\NewStudy\java\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
